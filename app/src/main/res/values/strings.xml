@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dt2wLauncher</string>
+    <string name="title_activity_cls_launcher">DoubleTab2Wake</string>>
+    <string name="action_settings">Settings</string>
+</resources>

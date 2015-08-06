@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DoubleTab2Wake</string>
+    <string name="title_activity_cls_launcher">DoubleTab2Wake</string>>
+    <string name="action_settings">Settings</string>
+
+</resources>
